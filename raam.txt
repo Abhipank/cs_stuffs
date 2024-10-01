@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/43936404/why-can-a-const-member-function-modify-a-static-data-member
+
+https://stackoverflow.com/questions/733360/why-do-we-not-have-a-virtual-constructor-in-c
