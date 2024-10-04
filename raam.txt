@@ -1,3 +1,9 @@
 https://stackoverflow.com/questions/43936404/why-can-a-const-member-function-modify-a-static-data-member
 
 https://stackoverflow.com/questions/733360/why-do-we-not-have-a-virtual-constructor-in-c
+
+https://stackoverflow.com/questions/4937180/a-base-class-pointer-can-point-to-a-derived-class-object-why-is-the-vice-versa
+
+https://codeforces.com/blog/entry/93959
+
+https://discuss.codechef.com/t/c-oops-concepts/74361
