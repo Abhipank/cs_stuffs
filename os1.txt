@@ -1,0 +1,26 @@
+lec - 1 
+os started out as library to abstract out hardware details .
+middleware between user programs and system hardwares(CPU , disk  ,main memory)
+manages hardware
+managaes cpu 
+manages program memory 
+manages other external devices(i/o)
+ISA specific to cpu
+PC is a register
+cpu caches - I-cache and D-cache
+device driver - part of kernel code for os 
+
+high privilege - other programs cannot access some things
+This gives security and isolation that os provides.
+
+os evolved from just running a single program to now multiple programs concurrentlty
+pdf 
+
+lec - 2 
+when u double click or execute some  exe 
+memory image resisdes in RAM
+CPU context of the program
+STDOUT , STDIN ,STDERR - files
+why active but blocked
+running , ready because of time share
+PCB is a generic variant that captures all variants
