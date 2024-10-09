@@ -24,3 +24,25 @@ STDOUT , STDIN ,STDERR - files
 why active but blocked
 running , ready because of time share
 PCB is a generic variant that captures all variants
+
+lec-3
+rarely program does sys call(u do not need how to do the sys call) - abstraction
+unix like systems like Linux
+no process can be created on its own , created from child process
+when os starts , it creates process called as init process
+init forks off few process , which forks off some other process
+scheduled meaning ready to run
+same code in child (like fork) as in parent 
+Linked list of PCBs
+after fork , both process and child are rescheduled 
+independent memory images (copy of each other)
+two ways to terminate the process , the normal scenario and abnormal scenario
+zombie exits and keep cosuming memory
+non blocking ways to invoke wait also exists
+
+completely different executable in the child on exec() ,  no more the executable of the parent(different rc values) - reboot as a new process
+
+boots up a system(intialisation of hardware) , u gets cmd from shell 
+parent calling exec on the child(actually exec remains on the child)
+child execs
+can process a program so that it reads input not from keyboard but from some other source

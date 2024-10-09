@@ -1,0 +1,2 @@
+dp , graph advanced- like scc .. Floyd warshall ... , trie + string hashing , segment tree , Linked List
+
